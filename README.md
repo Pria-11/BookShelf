@@ -34,7 +34,7 @@ A minimal MERN bookstore application with core features for browsing, ordering, 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/bookshelf.git
+   https://github.com/Pria-11/BookShelf.git
 Install dependencies
 
 bash
