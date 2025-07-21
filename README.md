@@ -37,9 +37,7 @@ A minimal MERN bookstore application with core features for browsing, ordering, 
    https://github.com/Pria-11/BookShelf.git
 Install dependencies
 
-bash
-Copy
-Edit
+
 cd frontend && npm install
 cd ../backend && npm install
 Configure environment
@@ -50,11 +48,10 @@ Set MongoDB URI, JWT secret, and PayPal client ID.
 
 Run the app
 
-bash
-Copy
-Edit
 # Backend
 npm run server
 
 # Frontend
+npm run build
 npm start
+
